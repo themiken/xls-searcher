@@ -1,3 +1,7 @@
+''' 
+  @author TheMiken
+'''
+
 #!/usr/bin/env
 import xlrd
 
